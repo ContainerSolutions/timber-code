@@ -14,5 +14,5 @@ jinja2==2.10              # via flask
 markupsafe==1.1.0         # via jinja2
 redis==3.0.1
 requests==2.21.0
-urllib3==1.24.1           # via requests
+urllib3==1.24.2           # via requests
 werkzeug==0.14.1          # via flask
